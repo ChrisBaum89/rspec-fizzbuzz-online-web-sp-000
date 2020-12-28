@@ -5,5 +5,6 @@ def fizzbuzz(int)
     "Fizz" #return Fizz
   end
   else
+    "nill"
   end
 end
